@@ -1,6 +1,5 @@
 
-# <img src="./image/ktlogo.gif" alt="Logo" width="20">RUSTMINER Mining Solution
-
+# <img src="./image/ktlogo.gif" alt="Logo" width="20">TCMINER矿池中转
 ### A full chain solution for mining virtual currencies
 
 <ul>
