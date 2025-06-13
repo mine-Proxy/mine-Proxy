@@ -1,5 +1,5 @@
 
-# <img src="./image/ktlogo.gif" alt="Logo" width="20">TCMINER矿池中转
+# <img src="./image/ktlogo.gif" alt="Logo" width="20">TCMINER矿池中转 中转服务器 中转矿池
 ### A full chain solution for mining virtual currencies
 
 <ul>
